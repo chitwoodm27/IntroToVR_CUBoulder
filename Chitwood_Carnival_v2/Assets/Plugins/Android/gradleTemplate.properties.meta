@@ -1,0 +1,10 @@
+fileFormatVersion: 2
+guid: 7adff4b11aad27c4a92e41b306758e5b
+DefaultImporter:
+  externalObjects: {}
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 
+
+    android.enableJetifier=true
+  android.useAndroidX=true
